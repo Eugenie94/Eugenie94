@@ -9,4 +9,4 @@
 
 
 
-- Pour me contacter : 📧 eugenie.khayat@gmail.com 📞 06 72 90 35 88
+- Pour me contacter : 📧 eugenie.khayat@gmail.com ou 📞 06 72 90 35 88
