@@ -6,5 +6,8 @@
 - 💻 J'utilise les frameworks suivants : Bootstrap / Bulma / Symfony / Doctrine
 - 💻 Je me sers de ces outils : Adobe XD / Gimp / Visual Studio Code / PhpStorm
 - 💪 Je suis actuellement en train d'apprendre le ReactJS.
+
+
+
 - 📧 eugenie.khayat@gmail.com
 - 📞 06 72 90 35 88
